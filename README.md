@@ -14,4 +14,3 @@ AApharma - Dev
 AApharma - Demo
 </p>
 
-Allergan -STG
