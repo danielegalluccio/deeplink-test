@@ -1,7 +1,16 @@
 # deeplink-test
-test repo for deep linking
 
-[I'm an inline-style link](https://www.google.com)
+This is to test deep linking for Mobile app when the App is installed
 
-[Mymeds - DEV]("com.reportum.mymedsandme.dev://test" )
-this is a test line editing
+The [link](https://mymedsandme.github.io/deeplink-test/) has the deep linking for the following apps:
+
+My Meds - Dev
+</p>
+My Meds - Val
+</p>
+
+AApharma - Dev
+</p>
+AApharma - Demo
+</p>
+
